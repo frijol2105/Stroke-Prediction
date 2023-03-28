@@ -1,7 +1,7 @@
 # *Stroke-Prediction*
 
 ## Introduction 
-- Link dataset: <https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?datasetId=1120859&sortBy=voteCount>
+- Link dataset: [Link Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?datasetId=1120859&sortBy=voteCount)
 
 - Context :According to the WHO stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 
