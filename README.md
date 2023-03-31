@@ -6,6 +6,14 @@
 - Context :According to the WHO stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 
 - Objetive: Objetive is predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
+
+## Data Preprocessing
+- Check and fill Null Values
+
+- Remove outlier
+
+- used in data analysis and statistics to group a Nmerical into bins and assigning each data point to the corresponding bin based on its value.
+
 ## Result 
 
 Model: Naives Bayes
