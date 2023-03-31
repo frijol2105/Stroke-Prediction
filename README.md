@@ -12,7 +12,7 @@
 
 - Remove outlier
 
-- used in data analysis and statistics to group some Numerical Data into bins and assigning each data point to the corresponding bin based on its value.
+- Group some Numerical Data into bins and assigning each data point to the corresponding bin based on its value.
 
 ## Result 
 
